@@ -11,8 +11,8 @@ Monthly Trend showing comparison of Casualties for Current Year and Previous Yea
 Casualties by Road Type for Current Year.<br/>
 Current Year Casualties by Area/Location & Day/Night.<br/>
 Total Casualties and Total Accident by Location.<br/>
-
-DAX Formulas Used in Measures:
+<br/>
+DAX Formulas Used in Measures:<br/>
 1. Total Casualties For Current Year and Year on Year Growth:<br/>
 (a) Current Year To Date Casualties -- CY Casualties Measure<br/>
 CY Casualties = TOTALYTD(SUM(Data[Number_of_Casualties]), 'Calendar'[Date])<br/>
