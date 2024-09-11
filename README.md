@@ -1,5 +1,8 @@
 # Road_accident_analysis_dashboard
 
+<img width="484" alt="Final Dashboard Image" src="https://github.com/user-attachments/assets/05ae001d-8b98-4bf7-9b75-905beb6e0637">
+
+
 Intro:<br/>
 This project is aimed at developing a Power BI Dashboard for generating insights about road accident data in the United Kingdom.<br/>
 
